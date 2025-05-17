@@ -40,8 +40,8 @@ Built an interactive story builder, basic idea is to navigate to different story
 - [x] User can provide optional context for the story
 - [x] Story segments are generated based on user choices
 - [x] Story ends after the 3rd segment
-- [x] Authentication
-- [x] Usage-based tracking
+- [x] Authentication (credits: chat.vercel.ai)
+- [x] Usage-based tracking (credits: chat.vercel.ai)
 - [x] Chat storage
 
 ## How it works
