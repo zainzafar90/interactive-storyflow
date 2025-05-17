@@ -8,7 +8,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Storio",
-  description: "The future of storytelling",
+  description:
+    "Storio uses a model-driven approach to decide when to render rich UI components and when to send simple text, making the storytelling experience much more intuitive",
 };
 
 export const viewport = {
