@@ -1,4 +1,4 @@
-
+<img src="./image.png" width="1024" alt="Storio Cover">
 
 # Storio
 
